@@ -3,17 +3,16 @@
 
 
 #  About Me:
-Hi there!  I'm a third-year student at VIT Bhopal University, passionate about learning and building projects in Web Development and Data Structures & Algorithms (DSA).  
-
+Hi there! I am a final year student at VIT Bhopal University
+Computer Science undergraduate and aspiring DevOps engineer with practical experience in Linux systems, Bash scripting, container orchestration using Docker, Jenkins and version control with GitLab and GitHub.
 
 ---
 
 ##  Skills:
--  Web Development: HTML, CSS, JavaScript, React
--  Backend: Node.js, Express.js
+-  Web Development: HTML, CSS, JavaScript
 -  Data Structures & Algorithms (learning phase)
--  Databases: MongoDB
--  Tools: Git, GitHub, VS Code
+-  Databases: MySQL
+-  Tools: Git, GitHub, GitLab, Docker, Jenkins, VS Code
 
 ---
 
